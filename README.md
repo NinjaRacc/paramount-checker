@@ -1,7 +1,6 @@
 # paramount-checker
 very fast and powerful checker written in python, licensed under GNU GPL v3.0
 
-![image](https://user-images.githubusercontent.com/80845089/198270531-916a55fc-6b52-42a3-b442-b4670bdd4ef6.png)
 
 ## prequisites
 
